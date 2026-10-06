@@ -14,7 +14,7 @@ Using real product information together with clearly identified planning assumpt
 
 ---
 
-# 🌸 1. Business Context
+# 1. Business Context
 
 Brittles currently produces two main product lines included in this model:
 
@@ -45,7 +45,7 @@ This created an interesting optimization question:
 
 ---
 
-# 📦 2. Original Product Data
+# 2. Original Product Data
 
 The available production records included ingredient costs, batch output, production capacity, and historical package sizes.
 <p align="center">
@@ -94,7 +94,7 @@ Historical packaging included:
 
 ---
 
-# 🛍️ 3. Current Menu
+# 3. Current Menu
 
 The optimization model focuses on the current Small and Medium products.
 
@@ -107,7 +107,7 @@ The optimization model focuses on the current Small and Medium products.
 
 ---
 
-# 🧮 4. Estimating Ingredient Cost
+# 4. Estimating Ingredient Cost
 
 Because current package weights differ from the historical package sizes, ingredient cost was estimated proportionally from batch-level production data.
 
@@ -147,7 +147,7 @@ Therefore:
 
 ---
 
-# 💰 5. Estimated Contribution per Box
+# 5. Estimated Contribution per Box
 
 For this model:
 
@@ -168,7 +168,7 @@ Packaging, labor, electricity, delivery, waste, and other operating expenses are
 
 ---
 
-# 🔎 6. Early Business Insight
+# 6. Early Business Insight
 
 Even before running Solver, the contribution calculations revealed something interesting.
 
@@ -202,13 +202,13 @@ This creates an important business trade-off:
 
 ---
 
-# 🎯 7. Optimization Objective
+# 7. Optimization Objective
 
 The purpose of the model is to determine the weekly production mix that maximizes estimated contribution while respecting operational and business constraints.
 
 ---
 
-# 🔢 8. Decision Variables
+# 8. Decision Variables
 
 Let:
 
@@ -222,7 +222,7 @@ Let:
 
 ---
 
-# 📈 9. Objective Function
+# 9. Objective Function
 
 The model maximizes estimated weekly contribution:
 
@@ -232,7 +232,7 @@ The model maximizes estimated weekly contribution:
 
 ---
 
-# ⏱️ 10. Production-Time Constraint
+#  10. Production-Time Constraint
 
 For planning purposes, the following production-time coefficients were used:
 
@@ -273,7 +273,7 @@ For the current optimization exercise, an **800 SAR planning limit** was applied
 
 ---
 
-# 🏪 12. Business Constraints
+# 12. Business Constraints
 
 Several management constraints were incorporated into the model.
 
@@ -295,7 +295,7 @@ Because small boxes are reported to sell more frequently:
 
 ---
 
-# 📊 13. Demand Scenarios
+# 13. Demand Scenarios
 
 Historical weekly demand was not available in sufficient detail to create statistically estimated demand bounds.
 
@@ -343,7 +343,7 @@ This suggested that under low-demand conditions:
 
 ---
 
-# 📈 14. Higher-Demand Capacity Scenario
+# 14. Higher-Demand Capacity Scenario
 
 A larger hypothetical demand scenario was also tested:
 
@@ -392,7 +392,7 @@ At higher demand:
 
 ---
 
-# 🌷 15. Intermediate Planning Scenario
+#  15. Intermediate Planning Scenario
 
 A more moderate planning scenario was tested using:
 
@@ -481,7 +481,7 @@ This suggests a progression:
 
 ---
 
-# 🧪 17. Additional Solver Run
+#  17. Additional Solver Run
 
 Another lower-demand scenario was tested:
 
@@ -516,7 +516,7 @@ Once again, the modeled demand limits were reached before the business exhausted
 
 ---
 
-# 📉 18. Sensitivity Analysis
+# 18. Sensitivity Analysis
 
 A continuous Linear Programming version of the model was used to generate a Solver Sensitivity Report.
 
@@ -548,7 +548,7 @@ If existing modeled demand is already fully satisfied, providing additional prod
 
 ---
 
-# 🧠 19. The Main Business Finding
+#  19. The Main Business Finding
 
 The most important result from this project is not a Solver output.
 
@@ -568,7 +568,7 @@ If marketing successfully increases demand, however, the model indicates that pr
 
 ---
 
-# 🧂 20. Why Salty Is Particularly Interesting
+#  20. Why Salty Is Particularly Interesting
 
 Classic is currently the stronger-demand product.
 
@@ -597,7 +597,7 @@ If Salty demand can be increased without significantly increasing production cos
 
 ---
 
-# 📣 21. Business Recommendations
+#  21. Business Recommendations
 
 Based on the current analysis, the following actions could be explored.
 
@@ -790,7 +790,7 @@ rather than claim:
 
 ---
 
-# 🚀 25. Future Development
+# 25. Future Development
 
 This model can be expanded significantly.
 
@@ -812,7 +812,7 @@ With sufficient historical data, future versions could move from scenario-based 
 
 ---
 
-# 🌸 Final Takeaway
+# Final Takeaway
 
 The original question was:
 
