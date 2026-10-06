@@ -5,17 +5,11 @@
 > **What if optimization could tell a small business not only what to produce — but where its next growth opportunity is?**
 
 This project applies **Operations Research and Linear Programming** to production planning for **Brittles**, a Saudi small business producing handmade sweet and savory products.
-
-The project started with a simple question:
-
-> **What is actually limiting Brittles' growth: ingredient budget, production capacity, product mix, or demand?**
-
-Using real product information together with clearly identified planning assumptions, I built an optimization model in **Microsoft Excel Solver**, analyzed multiple production scenarios, and translated the mathematical results into practical business recommendations.
-
----
 <p align="center">
   <img src="brittles-hero-crunch.gif" width="100%" alt="Brittles Production Optimization">
 </p>
+
+<br>
 
 <h1 align="center">🍫 Brittles Production Optimization</h1>
 
@@ -24,10 +18,23 @@ Using real product information together with clearly identified planning assumpt
 </p>
 
 <p align="center">
-  Turning real business data into smarter production and growth decisions.
+  <i>Turning real business data into smarter production and growth decisions.</i>
 </p>
 
 ---
+
+> **What if optimization could tell a small business not only what to produce — but where its next growth opportunity is?**
+
+The project started with a simple question:
+
+> **What is actually limiting Brittles' growth: ingredient budget, production capacity, product mix, or demand?**
+
+Using real product information together with clearly identified planning assumptions, I built an optimization model in **Microsoft Excel Solver**, analyzed multiple production scenarios, and translated the mathematical results into practical business recommendations.
+
+---
+
+
+
 
 
 # 1. Business Context
