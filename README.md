@@ -16,9 +16,6 @@
 
 ---
 
-> **What if optimization could tell a small business not only what to produce — but where its next growth opportunity is?**
-
-The project started with a simple question:
 
 > **What is actually limiting Brittles' growth: ingredient budget, production capacity, product mix, or demand?**
 
