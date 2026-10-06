@@ -13,6 +13,22 @@ The project started with a simple question:
 Using real product information together with clearly identified planning assumptions, I built an optimization model in **Microsoft Excel Solver**, analyzed multiple production scenarios, and translated the mathematical results into practical business recommendations.
 
 ---
+<p align="center">
+  <img src="brittles-hero-crunch.gif" width="100%" alt="Brittles Production Optimization">
+</p>
+
+<h1 align="center">🍫 Brittles Production Optimization</h1>
+
+<p align="center">
+  <b>Linear Programming · Excel Solver · Sensitivity Analysis · Business Analytics</b>
+</p>
+
+<p align="center">
+  Turning real business data into smarter production and growth decisions.
+</p>
+
+---
+
 
 # 1. Business Context
 
