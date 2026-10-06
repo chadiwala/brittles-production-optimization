@@ -48,6 +48,9 @@ This created an interesting optimization question:
 # 📦 2. Original Product Data
 
 The available production records included ingredient costs, batch output, production capacity, and historical package sizes.
+<p align="center">
+  <img src="IMG_5284.png" width="90%" alt="Brittles Original Cost and Production Data">
+</p>
 
 ## Classic
 
