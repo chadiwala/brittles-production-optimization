@@ -1,10 +1,3 @@
-# 🍫 Brittles Production Optimization
-
-### Linear Programming · Excel Solver · Sensitivity Analysis · Business Analytics
-
-> **What if optimization could tell a small business not only what to produce — but where its next growth opportunity is?**
-
-This project applies **Operations Research and Linear Programming** to production planning for **Brittles**, a Saudi small business producing handmade sweet and savory products.
 <p align="center">
   <img src="brittles-hero-crunch.gif" width="100%" alt="Brittles Production Optimization">
 </p>
