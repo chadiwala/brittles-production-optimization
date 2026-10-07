@@ -13,7 +13,15 @@
 <p align="center">
   <i>Turning real business data into smarter production and growth decisions.</i>
 </p>
+## 📊 Excel Optimization Model
 
+The complete Excel Solver model — including the optimization setup, constraints, scenario analysis, and sensitivity results — is available here:
+
+### 👉 [Open the Excel Model](model/Brittles_Production_Optimization.xlsx)
+
+> Built in Microsoft Excel using Solver for linear programming and sensitivity analysis.
+
+---
 ---
 
 
